@@ -8,3 +8,5 @@
 | `example.tfvars` | Copy → `terraform.tfvars` for local runs |
 | `spacelift.tf` | Commented-out stack-as-code definition |
 | `policies/plan-policy.rego` | Example plan policy (warns + blocks IAM creates) |
+
+## Still a WIP

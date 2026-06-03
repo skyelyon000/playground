@@ -9,4 +9,4 @@
 | `spacelift.tf` | Commented-out stack-as-code definition |
 | `policies/plan-policy.rego` | Example plan policy (warns + blocks IAM creates) |
 
-## Still a WIP
+Still a WIP

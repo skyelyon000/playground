@@ -10,4 +10,4 @@
 | `policies/plan-policy.rego` | Example plan policy (warns + blocks IAM creates) |
 
 
-### Still a WIP (playing around with different things here)
+Note: Still a WIP (playing around with different things here)

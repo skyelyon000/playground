@@ -11,4 +11,4 @@
 
 | Note |
 |------|
-| Still a WIP (playing around with different things here) |
+| Still a WIP (playing around with different things here) Will need to update soon |

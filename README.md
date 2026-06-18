@@ -11,4 +11,5 @@
 
 | Note |
 |------|
-| Still a WIP (playing around with different things here) Will need to update soon |
+| Still a WIP (playing around with different things here) |
+| Looking to create a simple, easy to use repo |

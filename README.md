@@ -5,11 +5,10 @@
 | `main.tf` | S3 bucket, SSM parameter, optional IAM role |
 | `variables.tf` | All the knobs you can turn |
 | `outputs.tf` | Useful values surfaced after `apply` |
-| `example.tfvars` | Copy → `terraform.tfvars` for local runs |
+| `example.tfvars` | Copy → `terraform.tfvars` for local runs - still need to add |
 | `spacelift.tf` | Commented-out stack-as-code definition |
 | `policies/plan-policy.rego` | Example plan policy (warns + blocks IAM creates) |
 
 | Note |
 |------|
 | Still a WIP (playing around with different things here) |
-| Looking to create a simple, easy to use repo |
